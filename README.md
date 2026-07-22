@@ -159,7 +159,7 @@ Download the latest version from the GitHub Releases page.
 - **Windows Installer (.exe)** – Recommended for most users.
 - **Portable (.exe)** – Run without installation.
 
-> https://github.com/rzkyydev/tikoverlay/releases
+> https://github.com/MaleniaLabs/tikoverlay/releases
 
 ---
 
